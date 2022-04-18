@@ -9,4 +9,15 @@
     "twitter",
     "email"
   ],
+ "components": [
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "नवभारत गोल्ड पर जाएं",
+          "url": "https://nbtgold.harnscloud.com/navbharatgold"
+        }
+      ]
+    }
+ ]
 }
