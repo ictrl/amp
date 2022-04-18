@@ -1,7 +1,6 @@
 {
   "bookendVersion": "v1.0",
   "shareProviders": [
-    "whatsapp",
     {
       "provider": "facebook",
       "app_id": "577459282421311"
@@ -9,27 +8,4 @@
     "twitter",
     "email"
   ],
-  "components": [
-    {
-      "type": "cta-link",
-      "links": [
-        {
-          "text": "नवभारत गोल्ड पर जाएं",
-          "url": "https://navbharattimes.indiatimes.com/navbharatgold"
-        }
-      ]
-    },
-      {
-      "type": "small",
-      "msid": "90901703",
-      "title": "गर्मियों में स्किन की ऐसे करें केयर!",
-      "caption": " हेल्थ से जुड़े सभी अपडेट और सेहत के टिप्स मिलते हैं नवभारत गोल्ड के हेल्थ बुलेटिन",
-      "url": "https://navbharattimes.indiatimes.com/navbharatgold/web-stories/useful-skin-care-tips-for-summer/photostory/90901703.cms",
-      "image": "https://navbharattimes.indiatimes.com/navbharatgold/photo/90901703.cms",
-      "image_thumb": "https://static.toiimg.com/thumb/msid-90901703,width=600,resizemode=3/90901703.jpg",
-      "author": "नवभारत गोल्ड टीम",
-      "published_date": "2022-04-18T07:07:09+05:30",
-      "image_credit": "NavbharatGold"
-    },
-  ]
 }
